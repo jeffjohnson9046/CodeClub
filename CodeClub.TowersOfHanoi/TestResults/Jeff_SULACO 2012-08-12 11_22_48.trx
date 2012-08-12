@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="ca385605-ffc9-4b15-bbb3-d958794af6e4" name="Jeff@SULACO 2012-08-12 11:22:48" runUser="Sulaco\Jeff" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="7d94643c-3780-40f8-8c47-ac01c13c0b0c">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Jeff_SULACO 2012-08-12 11_22_48">
+      <DeploymentItem filename="C:\Development\CodeClub\CodeClub.TowersOfHanoi\src\CodeClub.TowersOfHanoi.Core\bin\Debug\CodeClub.TowersOfHanoi.Core.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2012-08-12T11:22:48.2312879-07:00" queuing="2012-08-12T11:22:48.2742903-07:00" start="2012-08-12T11:22:48.3002918-07:00" finish="2012-08-12T11:22:48.5723074-07:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="8" executed="8" passed="8" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="Tower_Can_Get_Disk_From_Top_Of_Stack" storage="c:\development\codeclub\codeclub.towersofhanoi\test\codeclub.towersofhanoi.unittests\bin\debug\codeclub.towersofhanoi.unittests.dll" id="20e92529-e083-d65d-65e9-af10407bfc01">
+      <Execution id="425fb7d7-1c4e-4117-9000-e84d4b02219b" />
+      <TestMethod codeBase="C:/Development/CodeClub/CodeClub.TowersOfHanoi/test/CodeClub.TowersOfHanoi.UnitTests/bin/Debug/CodeClub.TowersOfHanoi.UnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="CodeClub.TowersOfHanoi.UnitTests.TowerTests, CodeClub.TowersOfHanoi.UnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Tower_Can_Get_Disk_From_Top_Of_Stack" />
+    </UnitTest>
+    <UnitTest name="Tower_Cannot_Add_A_Larger_Disk_On_Top_Of_A_Smaller_Disk" storage="c:\development\codeclub\codeclub.towersofhanoi\test\codeclub.towersofhanoi.unittests\bin\debug\codeclub.towersofhanoi.unittests.dll" id="662dfa8c-86e2-a013-67d5-8fa83e37d264">
+      <Execution id="16a011ae-72c6-40c2-9df2-a475dd0df91f" />
+      <TestMethod codeBase="C:/Development/CodeClub/CodeClub.TowersOfHanoi/test/CodeClub.TowersOfHanoi.UnitTests/bin/Debug/CodeClub.TowersOfHanoi.UnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="CodeClub.TowersOfHanoi.UnitTests.TowerTests, CodeClub.TowersOfHanoi.UnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Tower_Cannot_Add_A_Larger_Disk_On_Top_Of_A_Smaller_Disk" />
+    </UnitTest>
+    <UnitTest name="Tower_Can_Add_Multipe_Disks_On_Top_Of_Each_Other" storage="c:\development\codeclub\codeclub.towersofhanoi\test\codeclub.towersofhanoi.unittests\bin\debug\codeclub.towersofhanoi.unittests.dll" id="a06bbd9f-ae38-eb04-224e-818c9054f890">
+      <Execution id="129ed1e1-a9eb-44e9-99b4-60926b21c4ac" />
+      <TestMethod codeBase="C:/Development/CodeClub/CodeClub.TowersOfHanoi/test/CodeClub.TowersOfHanoi.UnitTests/bin/Debug/CodeClub.TowersOfHanoi.UnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="CodeClub.TowersOfHanoi.UnitTests.TowerTests, CodeClub.TowersOfHanoi.UnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Tower_Can_Add_Multipe_Disks_On_Top_Of_Each_Other" />
+    </UnitTest>
+    <UnitTest name="Tower_Get_Top_Disk_On_An_Empty_Stack_Of_Disks_Should_Return_Zero" storage="c:\development\codeclub\codeclub.towersofhanoi\test\codeclub.towersofhanoi.unittests\bin\debug\codeclub.towersofhanoi.unittests.dll" id="3962244e-ea37-85fd-fe31-f8e1b9d1e867">
+      <Execution id="482ac6b1-8346-4d05-900e-752404e1bc9a" />
+      <TestMethod codeBase="C:/Development/CodeClub/CodeClub.TowersOfHanoi/test/CodeClub.TowersOfHanoi.UnitTests/bin/Debug/CodeClub.TowersOfHanoi.UnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="CodeClub.TowersOfHanoi.UnitTests.TowerTests, CodeClub.TowersOfHanoi.UnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Tower_Get_Top_Disk_On_An_Empty_Stack_Of_Disks_Should_Return_Zero" />
+    </UnitTest>
+    <UnitTest name="GameState_Equals_ReferenceEquals_Should_Return_True" storage="c:\development\codeclub\codeclub.towersofhanoi\test\codeclub.towersofhanoi.unittests\bin\debug\codeclub.towersofhanoi.unittests.dll" id="22cc0de3-f2bf-972c-b75e-348f26cd5951">
+      <Execution id="056595c4-bb33-43bf-b60b-9b5c10d9c18b" />
+      <TestMethod codeBase="C:/Development/CodeClub/CodeClub.TowersOfHanoi/test/CodeClub.TowersOfHanoi.UnitTests/bin/Debug/CodeClub.TowersOfHanoi.UnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="CodeClub.TowersOfHanoi.UnitTests.GameStateTests, CodeClub.TowersOfHanoi.UnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="GameState_Equals_ReferenceEquals_Should_Return_True" />
+    </UnitTest>
+    <UnitTest name="GameState_Equals_When_Towers_Are_Different_Should_Return_False" storage="c:\development\codeclub\codeclub.towersofhanoi\test\codeclub.towersofhanoi.unittests\bin\debug\codeclub.towersofhanoi.unittests.dll" id="b498501d-e9fd-e400-b1c4-7a2a6551c541">
+      <Execution id="58bb0a6c-84e4-485d-b600-e4f532073993" />
+      <TestMethod codeBase="C:/Development/CodeClub/CodeClub.TowersOfHanoi/test/CodeClub.TowersOfHanoi.UnitTests/bin/Debug/CodeClub.TowersOfHanoi.UnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="CodeClub.TowersOfHanoi.UnitTests.GameStateTests, CodeClub.TowersOfHanoi.UnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="GameState_Equals_When_Towers_Are_Different_Should_Return_False" />
+    </UnitTest>
+    <UnitTest name="Tower_Should_Add_Disks_To_Top_Of_Stack" storage="c:\development\codeclub\codeclub.towersofhanoi\test\codeclub.towersofhanoi.unittests\bin\debug\codeclub.towersofhanoi.unittests.dll" id="964aaf46-13f8-43d6-68ff-753342cdea2e">
+      <Execution id="a26ba054-c3a4-47c8-b3e6-144e5a2d7e42" />
+      <TestMethod codeBase="C:/Development/CodeClub/CodeClub.TowersOfHanoi/test/CodeClub.TowersOfHanoi.UnitTests/bin/Debug/CodeClub.TowersOfHanoi.UnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="CodeClub.TowersOfHanoi.UnitTests.TowerTests, CodeClub.TowersOfHanoi.UnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Tower_Should_Add_Disks_To_Top_Of_Stack" />
+    </UnitTest>
+    <UnitTest name="GameState_Equals_When_Towers_Are_The_Same_Should_Return_True" storage="c:\development\codeclub\codeclub.towersofhanoi\test\codeclub.towersofhanoi.unittests\bin\debug\codeclub.towersofhanoi.unittests.dll" id="e7bf1e00-33c5-ae58-d41b-6004e8a3a3e9">
+      <Execution id="1d37adfe-9bfa-41f6-bee8-45de2c88f1c1" />
+      <TestMethod codeBase="C:/Development/CodeClub/CodeClub.TowersOfHanoi/test/CodeClub.TowersOfHanoi.UnitTests/bin/Debug/CodeClub.TowersOfHanoi.UnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="CodeClub.TowersOfHanoi.UnitTests.GameStateTests, CodeClub.TowersOfHanoi.UnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="GameState_Equals_When_Towers_Are_The_Same_Should_Return_True" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="22cc0de3-f2bf-972c-b75e-348f26cd5951" executionId="056595c4-bb33-43bf-b60b-9b5c10d9c18b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="e7bf1e00-33c5-ae58-d41b-6004e8a3a3e9" executionId="1d37adfe-9bfa-41f6-bee8-45de2c88f1c1" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="b498501d-e9fd-e400-b1c4-7a2a6551c541" executionId="58bb0a6c-84e4-485d-b600-e4f532073993" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="964aaf46-13f8-43d6-68ff-753342cdea2e" executionId="a26ba054-c3a4-47c8-b3e6-144e5a2d7e42" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="3962244e-ea37-85fd-fe31-f8e1b9d1e867" executionId="482ac6b1-8346-4d05-900e-752404e1bc9a" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="20e92529-e083-d65d-65e9-af10407bfc01" executionId="425fb7d7-1c4e-4117-9000-e84d4b02219b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="a06bbd9f-ae38-eb04-224e-818c9054f890" executionId="129ed1e1-a9eb-44e9-99b4-60926b21c4ac" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="662dfa8c-86e2-a013-67d5-8fa83e37d264" executionId="16a011ae-72c6-40c2-9df2-a475dd0df91f" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="056595c4-bb33-43bf-b60b-9b5c10d9c18b" testId="22cc0de3-f2bf-972c-b75e-348f26cd5951" testName="GameState_Equals_ReferenceEquals_Should_Return_True" computerName="SULACO" duration="00:00:00.0205632" startTime="2012-08-12T11:22:48.3022919-07:00" endTime="2012-08-12T11:22:48.5023034-07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="056595c4-bb33-43bf-b60b-9b5c10d9c18b">
+    </UnitTestResult>
+    <UnitTestResult executionId="1d37adfe-9bfa-41f6-bee8-45de2c88f1c1" testId="e7bf1e00-33c5-ae58-d41b-6004e8a3a3e9" testName="GameState_Equals_When_Towers_Are_The_Same_Should_Return_True" computerName="SULACO" duration="00:00:00.0023792" startTime="2012-08-12T11:22:48.5043035-07:00" endTime="2012-08-12T11:22:48.5113039-07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="1d37adfe-9bfa-41f6-bee8-45de2c88f1c1">
+    </UnitTestResult>
+    <UnitTestResult executionId="58bb0a6c-84e4-485d-b600-e4f532073993" testId="b498501d-e9fd-e400-b1c4-7a2a6551c541" testName="GameState_Equals_When_Towers_Are_Different_Should_Return_False" computerName="SULACO" duration="00:00:00.0017304" startTime="2012-08-12T11:22:48.5123040-07:00" endTime="2012-08-12T11:22:48.5203044-07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="58bb0a6c-84e4-485d-b600-e4f532073993">
+    </UnitTestResult>
+    <UnitTestResult executionId="a26ba054-c3a4-47c8-b3e6-144e5a2d7e42" testId="964aaf46-13f8-43d6-68ff-753342cdea2e" testName="Tower_Should_Add_Disks_To_Top_Of_Stack" computerName="SULACO" duration="00:00:00.0003016" startTime="2012-08-12T11:22:48.5223045-07:00" endTime="2012-08-12T11:22:48.5273048-07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="a26ba054-c3a4-47c8-b3e6-144e5a2d7e42">
+    </UnitTestResult>
+    <UnitTestResult executionId="482ac6b1-8346-4d05-900e-752404e1bc9a" testId="3962244e-ea37-85fd-fe31-f8e1b9d1e867" testName="Tower_Get_Top_Disk_On_An_Empty_Stack_Of_Disks_Should_Return_Zero" computerName="SULACO" duration="00:00:00.0001918" startTime="2012-08-12T11:22:48.5283049-07:00" endTime="2012-08-12T11:22:48.5343052-07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="482ac6b1-8346-4d05-900e-752404e1bc9a">
+    </UnitTestResult>
+    <UnitTestResult executionId="425fb7d7-1c4e-4117-9000-e84d4b02219b" testId="20e92529-e083-d65d-65e9-af10407bfc01" testName="Tower_Can_Get_Disk_From_Top_Of_Stack" computerName="SULACO" duration="00:00:00.0002195" startTime="2012-08-12T11:22:48.5363053-07:00" endTime="2012-08-12T11:22:48.5413056-07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="425fb7d7-1c4e-4117-9000-e84d4b02219b">
+    </UnitTestResult>
+    <UnitTestResult executionId="129ed1e1-a9eb-44e9-99b4-60926b21c4ac" testId="a06bbd9f-ae38-eb04-224e-818c9054f890" testName="Tower_Can_Add_Multipe_Disks_On_Top_Of_Each_Other" computerName="SULACO" duration="00:00:00.0002306" startTime="2012-08-12T11:22:48.5433057-07:00" endTime="2012-08-12T11:22:48.5473060-07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="129ed1e1-a9eb-44e9-99b4-60926b21c4ac">
+    </UnitTestResult>
+    <UnitTestResult executionId="16a011ae-72c6-40c2-9df2-a475dd0df91f" testId="662dfa8c-86e2-a013-67d5-8fa83e37d264" testName="Tower_Cannot_Add_A_Larger_Disk_On_Top_Of_A_Smaller_Disk" computerName="SULACO" duration="00:00:00.0022172" startTime="2012-08-12T11:22:48.5493061-07:00" endTime="2012-08-12T11:22:48.5553064-07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="16a011ae-72c6-40c2-9df2-a475dd0df91f">
+    </UnitTestResult>
+  </Results>
+</TestRun>
