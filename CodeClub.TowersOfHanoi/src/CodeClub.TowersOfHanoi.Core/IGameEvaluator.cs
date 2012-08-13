@@ -5,7 +5,11 @@ using System.Text;
 
 namespace CodeClub.TowersOfHanoi.Core
 {
-    interface IGameEvaluator
+    /// <summary>
+    /// An interface that will allow implementation of a mechanism to determine if the <c>Game.Play()</c> method
+    /// used the optimal number of moves.
+    /// </summary>
+    public interface IGameEvaluator
     {
     }
 }
