@@ -59,60 +59,11 @@ namespace CodeClub.ChangeForADollar
         //
         #endregion
 
-        //[TestMethod]
-        //public void MakeChange_One_CoinValue_Pennies_Should_Be_100()
-        //{
-        //    #region Arrange
 
-        //    int numberOfCoins = 0;
-        //    int expectedNumberOfCoins = 100;
-        //    int totalAmount = CoinValues.DOLLAR;
-        //    int coinValue = CoinValues.PENNY;
-
-        //    #endregion
-
-
-        //    #region Act
-
-        //    numberOfCoins = ChangeForADollar.MakeChange(totalAmount, coinValue);
-
-        //    #endregion
-
-
-        //    #region Assert
-
-        //    Assert.AreEqual(expectedNumberOfCoins, numberOfCoins);
-
-        //    #endregion
-        //}
-
-        //[TestMethod]
-        //public void MakeChange_One_CoinValue_Nickels_Should_Be_20()
-        //{
-        //    #region Arrange
-
-        //    int numberOfCoins = 0;
-        //    int expectedNumberOfCoins = 20;
-        //    int totalAmount = CoinValues.DOLLAR;
-        //    int coinValue = CoinValues.NICKEL;
-
-        //    #endregion
-
-
-        //    #region Act
-
-        //    numberOfCoins = ChangeForADollar.MakeChange(totalAmount, coinValue);
-
-        //    #endregion
-
-
-        //    #region Assert
-
-        //    Assert.AreEqual(expectedNumberOfCoins, numberOfCoins);
-
-        //    #endregion
-        //}
-
+        /// <summary>
+        /// Verify that the <c>ChangeMaker</c> can count the correct number of combinations when the coin values are in
+        /// descending order.  The collection of available coins includes a dollar coin (e.g. a Susan B. Anthony or Sacajawea).
+        /// </summary>
         [TestMethod]
         public void CountChangeCombinations_Coins_In_Descending_Order_Including_A_Dollar_Coin()
         {
@@ -140,6 +91,10 @@ namespace CodeClub.ChangeForADollar
             #endregion
         }
 
+        /// <summary>
+        /// Verify that the <c>ChangeMaker</c> can count the correct number of combinations when the coin values are in
+        /// descending order.  The collection of available coins excludes a dollar coin (e.g. a Susan B. Anthony or Sacajawea).
+        /// </summary>
         [TestMethod]
         public void CountChangeCombinations_Coins_In_Descending_Order_Without_A_Dollar_Coin()
         {
@@ -167,6 +122,10 @@ namespace CodeClub.ChangeForADollar
             #endregion
         }
 
+        /// <summary>
+        /// Verify that the <c>ChangeMaker</c> can count the correct number of combinations when the coin values are in
+        /// ascending order.  The collection of available coins includes a dollar coin (e.g. a Susan B. Anthony or Sacajawea).
+        /// </summary>
         [TestMethod]
         public void CountChangeCombinations_Coins_In_Ascending_Order_Including_A_Dollar_Coin()
         {
@@ -194,6 +153,10 @@ namespace CodeClub.ChangeForADollar
             #endregion            
         }
 
+        /// <summary>
+        /// Verify that the <c>ChangeMaker</c> can count the correct number of combinations when the coin values are in
+        /// ascending order.  The collection of available coins excludes a dollar coin (e.g. a Susan B. Anthony or Sacajawea).
+        /// </summary>
         [TestMethod]
         public void CountChangeCombinations_Coins_In_Ascending_Order_Without_A_Dollar_Coin()
         {
@@ -221,6 +184,10 @@ namespace CodeClub.ChangeForADollar
             #endregion
         }
 
+        /// <summary>
+        /// Verify that the <c>ChangeMaker</c> can count the correct number of combinations when the coin values are in
+        /// a mixed order.  The collection of available coins includes a dollar coin (e.g. a Susan B. Anthony or Sacajawea).
+        /// </summary>
         [TestMethod]
         public void CountChangeCombinations_Coins_In_Mixed_Order_Including_A_Dollar_Coin()
         {
@@ -228,7 +195,7 @@ namespace CodeClub.ChangeForADollar
 
             int expectedCombinations = 293;
             int actualCombinations = 0;
-            int[] coins = new[] { 1, 25, 50, 10, 100, 5 };
+            int[] coins = new[] { 25, 1, 50, 10, 100, 5 };
 
             #endregion
 
@@ -248,6 +215,10 @@ namespace CodeClub.ChangeForADollar
             #endregion
         }
 
+        /// <summary>
+        /// Verify that the <c>ChangeMaker</c> can count the correct number of combinations when the coin values are in
+        /// mixed order.  The collection of available coins excludes a dollar coin (e.g. a Susan B. Anthony or Sacajawea).
+        /// </summary>
         [TestMethod]
         public void CountChangeCombinations_Coins_In_Mixed_Order_Without_A_Dollar_Coin()
         {
@@ -255,7 +226,7 @@ namespace CodeClub.ChangeForADollar
 
             int expectedCombinations = 292;
             int actualCombinations = 0;
-            int[] coins = new[] { 1, 25, 50, 10, 5 };
+            int[] coins = new[] { 25, 1, 50, 10, 5 };
 
             #endregion
 
