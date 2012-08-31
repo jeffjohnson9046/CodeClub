@@ -1,0 +1,4 @@
+<Modules>
+  <Module PersistentId="9C419BCE-DB57-4E4A-94EB-E2D29FE28245" ModuleId="CodeClub.TowersOfHanoi.Core" />
+  <Module PersistentId="7CFD3334-5F3B-45DC-AF91-E6E3A8004561" ModuleId="CodeClub.TowersOfHanoi.UnitTests" />
+</Modules>

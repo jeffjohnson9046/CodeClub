@@ -30,7 +30,6 @@ namespace CodeClub.TowersOfHanoi.Core
         #endregion
 
 
-
         #region Methods
 
         /// <summary>
