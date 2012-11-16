@@ -1,0 +1,6 @@
+C:\Development\GitHub\CodeClub\CodeClub.ProjectEuler.54\src\CodeClub.ProjectEuler.54\bin\Debug\CodeClub.ProjectEuler.54.dll.config
+C:\Development\GitHub\CodeClub\CodeClub.ProjectEuler.54\src\CodeClub.ProjectEuler.54\bin\Debug\CodeClub.ProjectEuler.54.dll
+C:\Development\GitHub\CodeClub\CodeClub.ProjectEuler.54\src\CodeClub.ProjectEuler.54\bin\Debug\CodeClub.ProjectEuler.54.pdb
+C:\Development\GitHub\CodeClub\CodeClub.ProjectEuler.54\src\CodeClub.ProjectEuler.54\obj\Debug\CodeClub.ProjectEuler.54.dll
+C:\Development\GitHub\CodeClub\CodeClub.ProjectEuler.54\src\CodeClub.ProjectEuler.54\obj\Debug\CodeClub.ProjectEuler.54.pdb
+C:\Development\GitHub\CodeClub\CodeClub.ProjectEuler.54\src\CodeClub.ProjectEuler.54\obj\Debug\CodeClub.ProjectEuler.54.csprojResolveAssemblyReference.cache

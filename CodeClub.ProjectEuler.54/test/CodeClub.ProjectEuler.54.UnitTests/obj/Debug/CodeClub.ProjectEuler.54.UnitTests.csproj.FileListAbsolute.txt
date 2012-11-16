@@ -1,0 +1,8 @@
+C:\Development\GitHub\CodeClub\CodeClub.ProjectEuler.54\test\CodeClub.ProjectEuler.54.UnitTests\bin\Debug\CodeClub.ProjectEuler.54.UnitTests.dll.config
+C:\Development\GitHub\CodeClub\CodeClub.ProjectEuler.54\test\CodeClub.ProjectEuler.54.UnitTests\bin\Debug\CodeClub.ProjectEuler.54.UnitTests.dll
+C:\Development\GitHub\CodeClub\CodeClub.ProjectEuler.54\test\CodeClub.ProjectEuler.54.UnitTests\bin\Debug\CodeClub.ProjectEuler.54.UnitTests.pdb
+C:\Development\GitHub\CodeClub\CodeClub.ProjectEuler.54\test\CodeClub.ProjectEuler.54.UnitTests\bin\Debug\CodeClub.ProjectEuler.54.dll
+C:\Development\GitHub\CodeClub\CodeClub.ProjectEuler.54\test\CodeClub.ProjectEuler.54.UnitTests\bin\Debug\CodeClub.ProjectEuler.54.pdb
+C:\Development\GitHub\CodeClub\CodeClub.ProjectEuler.54\test\CodeClub.ProjectEuler.54.UnitTests\obj\Debug\CodeClub.ProjectEuler.54.UnitTests.csprojResolveAssemblyReference.cache
+C:\Development\GitHub\CodeClub\CodeClub.ProjectEuler.54\test\CodeClub.ProjectEuler.54.UnitTests\obj\Debug\CodeClub.ProjectEuler.54.UnitTests.dll
+C:\Development\GitHub\CodeClub\CodeClub.ProjectEuler.54\test\CodeClub.ProjectEuler.54.UnitTests\obj\Debug\CodeClub.ProjectEuler.54.UnitTests.pdb

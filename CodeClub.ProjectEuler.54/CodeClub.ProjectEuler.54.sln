@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{F5B7BF9F-CEB6-4964-96DF-28222C1B1EDE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeClub.ProjectEuler.54", "src\CodeClub.ProjectEuler.54\CodeClub.ProjectEuler.54.csproj", "{170067BE-D035-483D-BC1E-8BA3F65EED27}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{63D3B2B9-EE69-44B0-A213-B0227656394B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeClub.ProjectEuler.54.UnitTests", "test\CodeClub.ProjectEuler.54.UnitTests\CodeClub.ProjectEuler.54.UnitTests.csproj", "{70658D76-8D69-4AA7-96CD-656417E19234}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{170067BE-D035-483D-BC1E-8BA3F65EED27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{170067BE-D035-483D-BC1E-8BA3F65EED27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{170067BE-D035-483D-BC1E-8BA3F65EED27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{170067BE-D035-483D-BC1E-8BA3F65EED27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70658D76-8D69-4AA7-96CD-656417E19234}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70658D76-8D69-4AA7-96CD-656417E19234}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70658D76-8D69-4AA7-96CD-656417E19234}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70658D76-8D69-4AA7-96CD-656417E19234}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{170067BE-D035-483D-BC1E-8BA3F65EED27} = {F5B7BF9F-CEB6-4964-96DF-28222C1B1EDE}
+		{70658D76-8D69-4AA7-96CD-656417E19234} = {63D3B2B9-EE69-44B0-A213-B0227656394B}
+	EndGlobalSection
+EndGlobal
