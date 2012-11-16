@@ -49,6 +49,29 @@ namespace CodeClub.TowersOfHanoi.Core
         /// we've won).</param>
         public void Play(GameState goal)
         {
+            if (this.CurrentState == goal)
+            {
+                // TODO:  finish - we've moved all the disks from the source tower to the destination tower.
+                return;
+            }
+
+            // TODO:  Generate next move
+
+            // TODO:  Execute move
+
+            // TODO:  Record state after move
+            
+            // 
+        }
+
+        #endregion
+
+
+        #region Utility Methods
+
+        private GameMove CalculateNextMove()
+        {
+            throw new NotImplementedException();
         }
 
         #endregion

@@ -3,3 +3,8 @@ C:\Development\CodeClub\CodeClub.TowersOfHanoi\src\CodeClub.TowersOfHanoi.Core\b
 C:\Development\CodeClub\CodeClub.TowersOfHanoi\src\CodeClub.TowersOfHanoi.Core\obj\Debug\ResolveAssemblyReference.cache
 C:\Development\CodeClub\CodeClub.TowersOfHanoi\src\CodeClub.TowersOfHanoi.Core\obj\Debug\CodeClub.TowersOfHanoi.Core.dll
 C:\Development\CodeClub\CodeClub.TowersOfHanoi\src\CodeClub.TowersOfHanoi.Core\obj\Debug\CodeClub.TowersOfHanoi.Core.pdb
+C:\Development\Git Repositories\CodeClub\CodeClub.TowersOfHanoi\src\CodeClub.TowersOfHanoi.Core\obj\Debug\ResolveAssemblyReference.cache
+C:\Development\Git Repositories\CodeClub\CodeClub.TowersOfHanoi\src\CodeClub.TowersOfHanoi.Core\obj\Debug\CodeClub.TowersOfHanoi.Core.dll
+C:\Development\Git Repositories\CodeClub\CodeClub.TowersOfHanoi\src\CodeClub.TowersOfHanoi.Core\bin\Debug\CodeClub.TowersOfHanoi.Core.dll
+C:\Development\Git Repositories\CodeClub\CodeClub.TowersOfHanoi\src\CodeClub.TowersOfHanoi.Core\bin\Debug\CodeClub.TowersOfHanoi.Core.pdb
+C:\Development\Git Repositories\CodeClub\CodeClub.TowersOfHanoi\src\CodeClub.TowersOfHanoi.Core\obj\Debug\CodeClub.TowersOfHanoi.Core.pdb

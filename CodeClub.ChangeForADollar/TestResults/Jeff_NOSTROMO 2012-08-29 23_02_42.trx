@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="2310f7c0-55c0-4f90-ad5d-9ada678bb63d" name="Jeff@NOSTROMO 2012-08-29 23:02:42" runUser="Nostromo\Jeff" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="a1dbf31c-c850-4916-af09-2a6406358f65">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Jeff_NOSTROMO 2012-08-29 23_02_42" />
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2012-08-29T23:02:42.3646820-07:00" queuing="2012-08-29T23:02:42.6406978-07:00" start="2012-08-29T23:02:42.6676994-07:00" finish="2012-08-29T23:02:43.0027185-07:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="2" executed="2" passed="2" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="MakeChange_One_CoinValue_Pennies_Should_Be_100" storage="c:\development\git repositories\codeclub\codeclub.changeforadollar\codeclub.changeforadollar\bin\debug\codeclub.changeforadollar.dll" id="7cae2227-ec09-a63b-b59c-054a122e7e02">
+      <Execution id="02f31187-5ef1-4efe-bb9a-3d34190a17f5" />
+      <TestMethod codeBase="C:/Development/Git Repositories/CodeClub/CodeClub.ChangeForADollar/CodeClub.ChangeForADollar/bin/Debug/CodeClub.ChangeForADollar.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="CodeClub.ChangeForADollar.UnitTest1, CodeClub.ChangeForADollar, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="MakeChange_One_CoinValue_Pennies_Should_Be_100" />
+    </UnitTest>
+    <UnitTest name="MakeChange_One_CoinValue_Nickels_Should_Be_20" storage="c:\development\git repositories\codeclub\codeclub.changeforadollar\codeclub.changeforadollar\bin\debug\codeclub.changeforadollar.dll" id="8a55ece2-4495-ea37-b15e-cb5f37077fa6">
+      <Execution id="d49c61bc-40c4-4911-9579-f5ae6a0b8952" />
+      <TestMethod codeBase="C:/Development/Git Repositories/CodeClub/CodeClub.ChangeForADollar/CodeClub.ChangeForADollar/bin/Debug/CodeClub.ChangeForADollar.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="CodeClub.ChangeForADollar.UnitTest1, CodeClub.ChangeForADollar, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="MakeChange_One_CoinValue_Nickels_Should_Be_20" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="7cae2227-ec09-a63b-b59c-054a122e7e02" executionId="02f31187-5ef1-4efe-bb9a-3d34190a17f5" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="8a55ece2-4495-ea37-b15e-cb5f37077fa6" executionId="d49c61bc-40c4-4911-9579-f5ae6a0b8952" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="02f31187-5ef1-4efe-bb9a-3d34190a17f5" testId="7cae2227-ec09-a63b-b59c-054a122e7e02" testName="MakeChange_One_CoinValue_Pennies_Should_Be_100" computerName="NOSTROMO" duration="00:00:00.0235993" startTime="2012-08-29T23:02:42.6746998-07:00" endTime="2012-08-29T23:02:42.9327145-07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="02f31187-5ef1-4efe-bb9a-3d34190a17f5">
+    </UnitTestResult>
+    <UnitTestResult executionId="d49c61bc-40c4-4911-9579-f5ae6a0b8952" testId="8a55ece2-4495-ea37-b15e-cb5f37077fa6" testName="MakeChange_One_CoinValue_Nickels_Should_Be_20" computerName="NOSTROMO" duration="00:00:00.0001520" startTime="2012-08-29T23:02:42.9337146-07:00" endTime="2012-08-29T23:02:42.9357147-07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="d49c61bc-40c4-4911-9579-f5ae6a0b8952">
+    </UnitTestResult>
+  </Results>
+</TestRun>

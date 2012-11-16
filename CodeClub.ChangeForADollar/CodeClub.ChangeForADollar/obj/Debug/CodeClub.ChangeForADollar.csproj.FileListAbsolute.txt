@@ -1,0 +1,5 @@
+C:\Development\Git Repositories\CodeClub\CodeClub.ChangeForADollar\CodeClub.ChangeForADollar\obj\Debug\ResolveAssemblyReference.cache
+C:\Development\Git Repositories\CodeClub\CodeClub.ChangeForADollar\CodeClub.ChangeForADollar\bin\Debug\CodeClub.ChangeForADollar.dll
+C:\Development\Git Repositories\CodeClub\CodeClub.ChangeForADollar\CodeClub.ChangeForADollar\bin\Debug\CodeClub.ChangeForADollar.pdb
+C:\Development\Git Repositories\CodeClub\CodeClub.ChangeForADollar\CodeClub.ChangeForADollar\obj\Debug\CodeClub.ChangeForADollar.dll
+C:\Development\Git Repositories\CodeClub\CodeClub.ChangeForADollar\CodeClub.ChangeForADollar\obj\Debug\CodeClub.ChangeForADollar.pdb
