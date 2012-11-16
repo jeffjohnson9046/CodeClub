@@ -8,3 +8,8 @@ C:\Development\Git Repositories\CodeClub\CodeClub.TowersOfHanoi\src\CodeClub.Tow
 C:\Development\Git Repositories\CodeClub\CodeClub.TowersOfHanoi\src\CodeClub.TowersOfHanoi.Core\bin\Debug\CodeClub.TowersOfHanoi.Core.dll
 C:\Development\Git Repositories\CodeClub\CodeClub.TowersOfHanoi\src\CodeClub.TowersOfHanoi.Core\bin\Debug\CodeClub.TowersOfHanoi.Core.pdb
 C:\Development\Git Repositories\CodeClub\CodeClub.TowersOfHanoi\src\CodeClub.TowersOfHanoi.Core\obj\Debug\CodeClub.TowersOfHanoi.Core.pdb
+C:\Development\GitHub\CodeClub\CodeClub.TowersOfHanoi\src\CodeClub.TowersOfHanoi.Core\bin\Debug\CodeClub.TowersOfHanoi.Core.dll
+C:\Development\GitHub\CodeClub\CodeClub.TowersOfHanoi\src\CodeClub.TowersOfHanoi.Core\bin\Debug\CodeClub.TowersOfHanoi.Core.pdb
+C:\Development\GitHub\CodeClub\CodeClub.TowersOfHanoi\src\CodeClub.TowersOfHanoi.Core\obj\Debug\CodeClub.TowersOfHanoi.Core.csprojResolveAssemblyReference.cache
+C:\Development\GitHub\CodeClub\CodeClub.TowersOfHanoi\src\CodeClub.TowersOfHanoi.Core\obj\Debug\CodeClub.TowersOfHanoi.Core.dll
+C:\Development\GitHub\CodeClub\CodeClub.TowersOfHanoi\src\CodeClub.TowersOfHanoi.Core\obj\Debug\CodeClub.TowersOfHanoi.Core.pdb

@@ -12,3 +12,10 @@ C:\Development\Git Repositories\CodeClub\CodeClub.TowersOfHanoi\test\CodeClub.To
 C:\Development\Git Repositories\CodeClub\CodeClub.TowersOfHanoi\test\CodeClub.TowersOfHanoi.UnitTests\bin\Debug\CodeClub.TowersOfHanoi.UnitTests.pdb
 C:\Development\Git Repositories\CodeClub\CodeClub.TowersOfHanoi\test\CodeClub.TowersOfHanoi.UnitTests\bin\Debug\CodeClub.TowersOfHanoi.Core.dll
 C:\Development\Git Repositories\CodeClub\CodeClub.TowersOfHanoi\test\CodeClub.TowersOfHanoi.UnitTests\bin\Debug\CodeClub.TowersOfHanoi.Core.pdb
+C:\Development\GitHub\CodeClub\CodeClub.TowersOfHanoi\test\CodeClub.TowersOfHanoi.UnitTests\bin\Debug\CodeClub.TowersOfHanoi.UnitTests.dll
+C:\Development\GitHub\CodeClub\CodeClub.TowersOfHanoi\test\CodeClub.TowersOfHanoi.UnitTests\bin\Debug\CodeClub.TowersOfHanoi.UnitTests.pdb
+C:\Development\GitHub\CodeClub\CodeClub.TowersOfHanoi\test\CodeClub.TowersOfHanoi.UnitTests\bin\Debug\CodeClub.TowersOfHanoi.Core.dll
+C:\Development\GitHub\CodeClub\CodeClub.TowersOfHanoi\test\CodeClub.TowersOfHanoi.UnitTests\bin\Debug\CodeClub.TowersOfHanoi.Core.pdb
+C:\Development\GitHub\CodeClub\CodeClub.TowersOfHanoi\test\CodeClub.TowersOfHanoi.UnitTests\obj\Debug\CodeClub.TowersOfHanoi.UnitTests.csprojResolveAssemblyReference.cache
+C:\Development\GitHub\CodeClub\CodeClub.TowersOfHanoi\test\CodeClub.TowersOfHanoi.UnitTests\obj\Debug\CodeClub.TowersOfHanoi.UnitTests.dll
+C:\Development\GitHub\CodeClub\CodeClub.TowersOfHanoi\test\CodeClub.TowersOfHanoi.UnitTests\obj\Debug\CodeClub.TowersOfHanoi.UnitTests.pdb

@@ -2,8 +2,8 @@
 using System.Text;
 using System.Collections.Generic;
 using System.Linq;
+using CodeClub.TowersOfHanoi.Core;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using CodeClub.TowersOfHanoi.Core.Recursive;
 
 namespace CodeClub.TowersOfHanoi.UnitTests
 {
@@ -11,7 +11,7 @@ namespace CodeClub.TowersOfHanoi.UnitTests
     public class HanoiPuzzleTest
     {
         [TestMethod]
-        public void HanoiPuzzle_Recursive_Solution_With_Four_Disks()
+        public void Recursive_Solution_With_Four_Disks()
         {
             #region Arrange
 
@@ -23,6 +23,28 @@ namespace CodeClub.TowersOfHanoi.UnitTests
             #region Act
 
             puzzle.Solve(4, "sourcePeg", "destinationPeg", "intermediatePeg");
+
+            #endregion
+
+
+            #region Assert
+
+            #endregion
+        }
+
+        [TestMethod]
+        public void Recursive_Solution_With_Seven_Disks()
+        {
+            #region Arrange
+
+            var puzzle = new HanoiPuzzle();
+
+            #endregion
+
+
+            #region Act
+
+            puzzle.Solve(7, "sourcePeg", "destinationPeg", "intermediatePeg");
 
             #endregion
 
